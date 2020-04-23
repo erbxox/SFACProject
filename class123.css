@@ -1,0 +1,47 @@
+.class1{
+color: blue;
+font-family:Arial;
+font-size:15pt;
+} 
+
+.class2{
+color: mediumpurple;
+font-family: Calibri;
+font-size:25pt;
+text-align: center;
+}
+
+.class3{
+color: deeppink;
+font-family: cursive;
+font-size:35pt;
+}
+
+.class4{
+color: black;
+font-family: inherit;
+font-size: 12pt;
+text-align: center
+}
+
+#divleft{
+ 
+    float: left;
+    text-align: center;
+
+}
+
+#divmiddle{
+    
+    float: none;
+    text-align: center;
+   
+    
+}
+
+#divright{
+    
+    float: right;
+    text-align: center;
+
+}
